@@ -1,0 +1,13 @@
+# Site settings
+title: Jekyll GitHub Demo
+email: per@kollegorna.se
+description: Look how easy it is to host and modify a site running Jekyll on GitHub pages!
+#baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jekyll-github-demo.kollegorna.net" # the base hostname & protocol for your site
+twitter_username: kollegorna
+github_username:  kollegorna
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
